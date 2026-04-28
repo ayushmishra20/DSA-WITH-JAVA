@@ -12,6 +12,10 @@ public class Sum2 {
         // System.out.println(result);
         // String message = greet();
         // System.out.println(message);
+        Scanner in = new Scanner(System.in);
+        String name = in.next();
+        String personalised = mygreet(name);
+        System.out.println(personalised);
     }
 
     // Return type int Method
@@ -24,6 +28,12 @@ public class Sum2 {
         int add = a + b;
         System.out.println(add);
         return add;
+    }
+
+    // String greet
+    static String mygreet( String name){
+        String message = "Hello Mr. "+ name;
+        return message;
     }
 
     // Greeting Method
