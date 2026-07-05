@@ -1,4 +1,6 @@
-package java_program;
+package Assignment;
+// Write a program to print whether a number is even or odd, also take input from the user.
+
 
 import java.util.*;
 
@@ -23,5 +25,6 @@ public class LCM_HCF {
 
         System.out.println("HCF is "+ HCF);
         System.out.println("LCM is "+ LCM);
+        in.close();
     }
 }

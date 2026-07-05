@@ -1,4 +1,4 @@
-package java_program;
+package Assignment;
 import java.util.Scanner;
 
 public class NnumberSum {
