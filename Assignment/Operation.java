@@ -24,7 +24,7 @@ public class Operation {
         if (operator.equals("/")) {
             System.out.println("You Selected Devision operation, Ans is : "+ (a/b));            
         }
-        
+        in.close();
         
     }
 }

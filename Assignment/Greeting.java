@@ -9,5 +9,6 @@ public class Greeting {
         String name = in.next();
         System.out.println("Welcome , have a nice day: " + name);
         System.out.format("Welcome Mr %s , Have A very nice day.", name);
+        in.close();
     }
 }

@@ -24,5 +24,6 @@ public class PRT {
         System.out.println("---- Total Ammount with Intrest ----");
         double total  = simpleintrest + principle;
         System.out.format("Total Ammout with Simple Intrest is %.2f%n", total);
+        in.close();
     }
 }
