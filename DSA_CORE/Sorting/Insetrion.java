@@ -25,3 +25,12 @@ public class Insetrion {
         arr[second] = temp;
     }
 }
+// Sorting stability refers to what happens when an algorithm sorts elements that have equal sorting keys (duplicate values).
+
+// Stable sorting guarantees that equal elements will retain their original relative order after being sorted.
+
+// Unstable sorting makes no such guarantee; the relative order of equal elements might be scrambled during the sorting process.
+
+// Bubble sort is a simple comparison-based sorting algorithm. It works by repeatedly stepping through a list, comparing adjacent elements, and swapping them if they are in the wrong order.
+
+// The algorithm gets its name because the largest elements "bubble" up to the end of the array with each complete pass, much like air bubbles rising to the surface of water.
