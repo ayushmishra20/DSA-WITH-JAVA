@@ -1,0 +1,17 @@
+package DSA_CORE.String;
+
+import java.util.Arrays;
+
+public class Output {
+    public static void main(String[] args) {
+        System.out.println(56);
+        Integer num = Integer.valueOf(56);
+        System.out.println(num.toString());
+        System.out.println(num);
+        System.out.println("Ayush");
+        System.out.println(Arrays.toString(new int[] {1,2,3,4,5,6,6}));
+
+        String name = null;
+        System.out.println(name);
+    }
+}
