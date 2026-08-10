@@ -1,4 +1,4 @@
-package DSA_CORE.String;
+package String;
 
 public class PrettyPrintng {
     public static void main(String[] args) {

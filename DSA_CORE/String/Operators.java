@@ -1,4 +1,4 @@
-package DSA_CORE.String;
+package String;
 
 import java.util.ArrayList;
 

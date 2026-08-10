@@ -1,4 +1,4 @@
-package DSA_CORE.Array;
+package Array;
 
 public class Max {
     public static void main(String[] args) {
