@@ -4,15 +4,15 @@ public class Arrays {
     public static void main(String[] args) {
 
     // Q: Store a intezer
-    int a = 19;
+    // int a = 19;
 
     // Q: store a name
-    String name = "Ayush Mishra";
+    // String name = "Ayush Mishra";
 
     // Synntax 
     // datatype[] var_name = new dtype[size];
     // Store 5 Rol no
-    int[] roll_no = new int[5];
+    // int[] roll_no = new int[5];
     
     // or direcctly
     int[] roll_nos = {1,2,3,4,5};

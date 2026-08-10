@@ -14,6 +14,7 @@ public class Sum2 {
         // System.out.println(message);
         Scanner in = new Scanner(System.in);
         String name = in.next();
+        in.close();
         String personalised = mygreet(name);
         System.out.println(personalised);
     }
@@ -26,6 +27,7 @@ public class Sum2 {
         System.out.println("Enter Second number 2: ");
         int b = in.nextInt();
         int add = a + b;
+        in.close();
         System.out.println(add);
         return add;
     }

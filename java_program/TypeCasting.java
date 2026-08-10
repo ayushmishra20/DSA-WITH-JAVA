@@ -1,10 +1,10 @@
 package java_program;
-import java.nio.channels.Pipe.SourceChannel;
 import java.util.*;
 
 public class TypeCasting {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        input.close();
 
         // TypeCasting
         float num = (int) (123.43f);

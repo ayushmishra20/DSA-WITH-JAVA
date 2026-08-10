@@ -1,11 +1,11 @@
 package Array;
 
 import java.util.Scanner;
-import java.util.*;
+
 public class MultiDimension {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
-
+        in.close();
         // int[][] arr = new int[3][];
         // int[][] arr2 = {
         //     {1,2,3,4},// 0th index

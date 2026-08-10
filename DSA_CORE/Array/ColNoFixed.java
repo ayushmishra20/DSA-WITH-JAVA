@@ -1,5 +1,5 @@
 package Array;
-import java.util.*;
+
 public class ColNoFixed {
     public static void main(String[] args){
         int[][] arr = {

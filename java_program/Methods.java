@@ -6,10 +6,10 @@ public class Methods {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         // Sum(in);
-        /* 
+        /*
         int result = Sum2(in);
-        System.out.println("The returned sum is: " + result);
-        in.close();*/
+        System.out.println("The returned sum is: " + result);*/
+        in.close();
 
         int result = Sum3(40, 50);
         System.out.println(result);

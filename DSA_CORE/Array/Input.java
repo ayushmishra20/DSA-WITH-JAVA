@@ -21,9 +21,9 @@ public class Input {
             System.out.println(arr[i] + " ");
         }
 
-        for(int num : arr) { // for every element in array, print the element
-//            System.out.print(num + " "); //  here num represents element of the array
-        }
+//         for(int num : arr) { // for every element in array, print the element
+// //            System.out.print(num + " "); //  here num represents element of the array
+//         }
 //        System.out.println(arr[5]);// index out of bound error
 
         // Array of Objects

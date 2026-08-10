@@ -1,5 +1,5 @@
 package java_program;
-import java.util.*;
+
 
 public class Besics {
     public static void main(String[] args) {
