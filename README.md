@@ -1,33 +1,49 @@
-# DSA-WITH-JAVA 
+# DSA-WITH-JAVA
 
-Welcome to my **DSA-WITH-JAVA** repository! 
+This repository contains my Java practice programs and Data Structures & Algorithms exercises as I continue learning in 2026.
 
-This repository contains my daily progress, notes, and code as I learn Core Java and dive into Data Structures and Algorithms for my 2026 goals.
+## Overview
 
-##  Topics Covered So Far
+The project is organized into three main folders:
 
-This repository currently includes foundational Java concepts:
+- **java_program**: beginner-level Java programs covering fundamentals such as variables, input/output, conditionals, loops, methods, type casting, scope, and overloading.
+- **DSA_CORE**: core DSA practice files focused on arrays, strings, patterns, and sorting techniques.
+- **Assignment**: small assignment-style problems such as Fibonacci, leap year, LCM/HCF, largest number, multiplication table, and other basic exercises.
 
-- **Variables & Scoping:** Block scope, loop scope, and variable shadowing (`Scope.java`, `Shadowing.java`).
-- **Type Casting:** Implicit/Explicit casting, automatic type promotion, and ASCII conversions (`TypeCasting.java`).
-- **Conditionals:** If-else statements and the enhanced `switch` syntax (`Conditional.java`, `Switch.java`).
-- **Loops:** `for`, `while`, and `do-while` loops (`loops.java`).
-- **Methods:** Creating custom methods, passing parameters (like `Scanner`), and utilizing return types (`Methods.java`, `Sum.java`, `Sum2.java`).
-- **Pass-by-Value & References:** Understanding how Java passes variables vs. object references, including modifying arrays (`Swap.java`, `ChangeValue.java`).
+## Topics Covered
 
-##  How to Run
+### Java Basics
+- Variables and data types
+- Input and output
+- Conditional statements
+- Loops
+- Methods and method overloading
+- Scope and shadowing
+- Type casting
+- Varargs
 
-1. Ensure you have the Java Development Kit (JDK) installed on your machine.
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/DSA-WITH-JAVA.git
-   ```
-3. Navigate to the project directory:
+### DSA Practice
+- Arrays
+- Strings
+- Pattern printing
+- Sorting algorithms such as Bubble Sort, Insertion Sort, and Selection Sort
+
+## How to Run a Java Program
+
+1. Make sure Java is installed on your system.
+2. Open the project folder:
    ```bash
    cd DSA-WITH-JAVA
    ```
-4. Compile and run any Java file. For example:
+3. Compile a Java file, for example:
    ```bash
    javac java_program/Methods.java
-   java java_program.Methods
    ```
+4. Run the compiled program:
+   ```bash
+   java -cp java_program Methods
+   ```
+
+## Notes
+
+This repository is mainly for personal learning, practice, and progress tracking. It is constantly being updated as new topics are explored.
